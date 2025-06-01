@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.gif" alt="Banner" width="400" height="150"/>
+  <img src="header.gif" alt="Banner" width="400" height="250"/>
 </p>
 # 💫 About Me:
 Dedicated and results-oriented professional with a strong learning aptitude and clear <br>communication skills. Highly motivated to leverage expertise in MERN Stack, AWS, Jenkins, <br>Terraform, Docker, Git, and Python/Bash scripting.  
