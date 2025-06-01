@@ -18,17 +18,19 @@ Dedicated and results-oriented professional with a strong learning aptitude and 
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayeshsharma24&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshsharma24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="360" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jayeshsharma24&theme=dark&hide_border=false" alt="GitHub Streak" width="450" />
-</p>
+<table>
+  <tr>
+    <td align="center" style="padding-right: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=jayeshsharma24&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="320"/>
+    </td>
+    <td align="center" style="padding-right: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshsharma24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="280"/>
+    </td>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=jayeshsharma24&theme=dark&hide_border=false" alt="GitHub Streak" width="320"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🏆 GitHub Trophies
