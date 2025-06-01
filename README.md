@@ -16,6 +16,20 @@ Dedicated and results-oriented professional with a strong learning aptitude and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshsharma24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=jayeshsharma24&theme=dark&hide_border=false)
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayeshsharma24&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshsharma24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="360" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jayeshsharma24&theme=dark&hide_border=false" alt="GitHub Streak" width="450" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayeshsharma24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
