@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.mp4" alt="Banner" />
+  <img src="./header.png" alt="Banner" />
 </p>
 # 💫 About Me:
 Dedicated and results-oriented professional with a strong learning aptitude and clear <br>communication skills. Highly motivated to leverage expertise in MERN Stack, AWS, Jenkins, <br>Terraform, Docker, Git, and Python/Bash scripting.  
